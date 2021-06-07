@@ -1,4 +1,10 @@
 # IIOT-Databricks
+
+This project demonstrates the following architecture for IIoT Ingest, Processing and Analytics on Azure. 
+The following architecture is implemented in this project. 
+
+<img src="https://sguptasa.blob.core.windows.net/random/iiot_blog/end_to_end_architecture.png" width=800>
+
 ```markdown
 DBR 8.2 (includes Apache Spark 3.1.1, Scala 2.12) used for this project
 
